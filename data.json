@@ -1,0 +1,26 @@
+{
+  "seed_version": 1,
+  "bot_admin": [
+    5028581330
+  ],
+  "bot_cur": "⭐ Stars",
+  "bonus": 1,
+  "reffer_bonus": 2,
+  "min_wd": 50,
+  "welcome": "<b>✨ Welcome to our Refer &amp; Earn bot 🚀</b>\n\n<b>🎁 Signup bonus: </b>1 ⭐\n<b>👫 Per referral: </b>2 ⭐\n<b>📤 Minimum withdraw: </b>50 ⭐\n\n📥 You need a Telegram <b>@username</b> to join. Your Stars are sent to it.\n\nPress <b>\"✅ Join Airdrop\"</b> to register.\n\n<i>(Admin: edit this text in /admin → Welcome Message)</i>",
+  "check": [],
+  "but": [
+    [
+      "👤 Account",
+      "📤 Withdraw"
+    ],
+    [
+      "💸 Earn More"
+    ]
+  ],
+  "payout": "@TonOfficials",
+  "bot": true,
+  "bot_text": "Bot is <b>Turned Off</b>",
+  "broad_speed": 66.66666666666667,
+  "earn": "💸 <b>Earn more</b>\n\nShare your personal link with friends. You get Stars for every friend who registers.\n\n<i>(Admin: edit this text in /admin → Earn More)</i>"
+}
